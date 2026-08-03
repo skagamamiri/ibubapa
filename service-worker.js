@@ -60,7 +60,7 @@ messaging.onBackgroundMessage(
 
 const CACHE_NAME = "skamdelima-v35";
 
-const BASE = "/delima/";
+const BASE = "/ibubapa/";
 
 const APP_FILES = [
   BASE,
