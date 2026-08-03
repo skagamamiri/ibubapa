@@ -58,7 +58,7 @@ messaging.onBackgroundMessage(
   }
 );
 
-const CACHE_NAME = "skamdelima-v35";
+const CACHE_NAME = "ibubapa-v1";
 
 const BASE = "/ibubapa/";
 
